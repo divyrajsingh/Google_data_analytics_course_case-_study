@@ -1,5 +1,6 @@
 Divvy Bike Trips Data Analysis (2020)
 
+
 This project focuses on the analysis of Divvy bike trip data for the year 2020, aiming to identify patterns in rider behavior, such as ride length, station usage, and differences between members and casual riders. 
 Data cleaning was performed to ensure the dataset was prepared for analysis. This involved converting columns like start_station_id and end_station_id from character to integer, handling missing values using the drop_na() function, and removing duplicate entries. 
 Additionally, trips with negative ride lengths were filtered out to maintain data quality.
